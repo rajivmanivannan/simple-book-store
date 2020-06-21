@@ -1,6 +1,6 @@
 # A simple book store app implementation using Python Flask + PosgreSQL
 
-![Book Store](/screenshot/book-store.jpg)
+![Book Store](screenshot/book-store.jpg)
 
 ## Virtual enverinment setup
 
