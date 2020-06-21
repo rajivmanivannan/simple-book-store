@@ -1,4 +1,4 @@
-# A simple book store app implementation using Python Flask + PosgreSQL
+# A simple book store app implementation using Python Flask + PostgreSQL
 
 ![Book Store](/screenshot/book-store.png)
 
